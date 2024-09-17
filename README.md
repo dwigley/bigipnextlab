@@ -11,4 +11,5 @@ Lab 2: CM Clustering and LTM Discovery.
 - After the instances are ready, create the Central Manager cluster with 3 nodes manually.
 - Then discover the two LTM instances and create a high availability pair.
 - Then load the same UCS as used in Lab 1.
+- Rename and Re-IP one of the virtual servers during the import process. 
 - There will be some issues encountered along the way. Why?
