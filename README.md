@@ -24,6 +24,7 @@ Lab 3: Application creation via GUI (placeholder)
 Lab 4: BIG-IP Next, AS3 and YOU! (placeholder)
 - Setting up an environment to post AS3
   - I used REST client inside of VSCode
+    - https://docs.f5net.com/display/CONSULTING/Using+VSCode+to+send+AS3+to+BIG-IP+Next+API
 - Differences between Classic TMOS and BIG-IP Next
   - no AS3 package to install (native)
   - declerations get posted to a different API point
